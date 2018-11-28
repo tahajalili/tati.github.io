@@ -113,6 +113,7 @@ optgroup,
 select,
 textarea {
   margin: 0;
+  width: 150;
   font: inherit;
   color: inherit;
 }
